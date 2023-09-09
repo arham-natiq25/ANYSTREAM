@@ -1,0 +1,43 @@
+#navi {
+    background-color: #fec68d;
+}
+
+#navi a {
+    color: #000;
+}
+
+#navi a:hover {
+    color: #fff;
+}
+
+#navtb {
+    color: grey;
+}
+
+#main {
+    margin-top: 20px;
+}
+
+#main .gogfont {
+    font-family: 'Alumni Sans Collegiate One';
+}
+
+.blk {
+    color: #000;
+}
+
+.orange {
+    color: orange;
+}
+
+.ten {
+    margin-top: 80px;
+
+}
+
+
+
+#footer .col-4 .fa {
+    border: 1px solid white;
+    color: #fff;
+}

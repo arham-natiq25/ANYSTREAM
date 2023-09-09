@@ -1,0 +1,27 @@
+#footer .fa {
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 28px;
+    cursor: pointer;
+}
+
+
+.resize {
+    width: 100%;
+    height: 100%;
+}
+
+.gogfont {
+    font-family: 'Alumni Sans Collegiate One';
+    color: #2b2524;
+
+}
+
+.twenty {
+    margin-bottom: 60px;
+}
+
+#tiktock {
+    margin-bottom: 80px;
+}
